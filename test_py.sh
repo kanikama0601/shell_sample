@@ -1,4 +1,4 @@
-cd ~/python3/test
+cd ~/python3/python_test/
 ls
 read -p "select file name:" -e input
 
